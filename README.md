@@ -4,4 +4,4 @@
 
 This is preview
 
-<img width="304" src="https://user-images.githubusercontent.com/89775012/159132666-3245c2f4-d343-4a8d-955b-d252989367a8.png">
+<img width="204" src="https://user-images.githubusercontent.com/89775012/159132666-3245c2f4-d343-4a8d-955b-d252989367a8.png">
