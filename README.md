@@ -1,6 +1,6 @@
 # Calculator
 
-**Simple calculator app - a mini project written in java and developed on android platform**
+**Simple calculator app - a mini project written in java and developed on Android platform**
 
 This is preview
 
